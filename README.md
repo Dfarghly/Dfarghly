@@ -6,6 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i have an ittatinal fears of dogs !! even though i had one for 10 years
 - Test PR for n8n automation
+- Test2
 
 
 <!---
