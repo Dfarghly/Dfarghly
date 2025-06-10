@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me message me in Linkdlin 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i have an ittatinal fears of dogs !! even though i had one for 10 years 
+- ⚡ Fun fact: i have an ittatinal fears of dogs !! even though i had one for 10 years
+- Test PR for n8n automation
+
 
 <!---
 Dfarghly/Dfarghly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
