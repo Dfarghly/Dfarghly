@@ -42,7 +42,7 @@ I’m passionate about creating **scalable, observable, and resilient** systems 
 ### 🟠 **DevOps Automation**
 - GitOps-style Helm deployments  
 - Crossplane for GCP infrastructure orchestration  
-- Terraform for GKE and cloud resource provisioning  
+- Flux for GKE and cloud resource provisioning  
 
 ---
 
