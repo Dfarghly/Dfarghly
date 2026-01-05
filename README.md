@@ -14,7 +14,7 @@ I’m passionate about creating **scalable, observable, and resilient** systems 
 - **Kubernetes & Containers:** GKE, k3d, kind, Helm, Operators  
 - **Infrastructure-as-Code:** Terraform, Crossplane  
 - **Messaging Systems:** RabbitMQ (HA, Federation, Shovel, topology automation)  
-- **Monitoring & Observability:** Prometheus, Alertmanager, Grafana  
+- **Monitoring & Observability:** Prometheus, Alertmanager, Grafana , ELK 
 - **CI/CD:** GitHub Actions, Cloud Build  
 - **Security:** IAM, Secrets Management, RBAC  
 
